@@ -5,7 +5,7 @@ Produce a 'data self-portrait' in a p5.js sketch by making a visualisation that 
 Experiment with different ways to present the data, e.g. using text, images, shapes, or colours.
 
 
-Current Sketch: https://melissss4.github.io/Workshop-5/ 
+Current Sketch: [https://melissss4.github.io/Workshop-5/ ](https://melissss4.github.io/Workshop-5/) 
 
 
 Before beginning this workshop I went through this website for more information about p5.js coding https://thecodingtrain.com/tracks/code-programming-with-p5-js 
