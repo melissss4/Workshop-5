@@ -33,7 +33,14 @@ I noticed I left in the “Vehicles/’miata.png”); little colon before a coup
 
 I felt like my code was getting a bit too long so I googled how to shorten code with a lot of ‘if’ statements, and I found out I could use ternary’s. I found this website https://www.geeksforgeeks.org/javascript-ternary-operator/ explaining how they work and this website https://processing.org/reference/conditional.html explaining in more detail and with examples. I then tried to incorporate them into my code to shorten it and have less ‘if’ statements since I was starting to mix mine up. 
 
-I noticed after I added these the miata was not showing up on the Friday line, so I looked into that and noticed that I forgot to add it into the CSV file. I then added it and re-uploaded this into my code and it worked. 
+I noticed after I added these the miata was not showing up on the Friday line, so I looked into that and noticed that I forgot to add it into the CSV file. 
+
+![Screen Shot 2025-01-22 at 1 39 29 PM](https://github.com/user-attachments/assets/d32db9df-1b0d-4f35-ad6e-cf4cee38e944)
+
+
+I then added it and re-uploaded this into my code and it worked. 
+
+![Screen Shot 2025-01-22 at 1 39 46 PM](https://github.com/user-attachments/assets/9e3b272c-69d6-48bd-bd9c-90928de6852c)
 
 
 ![Screen Shot 2025-01-22 at 1 37 50 PM](https://github.com/user-attachments/assets/1926a2a3-ac64-482c-9843-855aed660bb5)
