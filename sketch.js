@@ -45,7 +45,7 @@ let slider;
 
 function setup() {
   createCanvas(700, 400);
-  slider = createSlider(0, 6, 0); // Slider for 7 days (index 0-6)
+  slider = createSlider(0, 6, 0); 
   slider.position(10, 370);
   slider.style('width', '680px');
 }
@@ -62,7 +62,7 @@ function drawLabels(dayIndex) {
   const days = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
   textAlign(CENTER);
   textSize(20);
-  text(days[dayIndex], width / 2, 350); // Show label for the current day
+  text(days[dayIndex], width / 2, 350); 
 }
 
 function drawVehicles(dayIndex) {
@@ -76,7 +76,7 @@ function drawVehicles(dayIndex) {
 
 function draw() {
   background(250, 200, 200);
-  let dayIndex = slider.value(); // Get the current day index from the slider
+  let dayIndex = slider.value(); 
   drawLabels(dayIndex);
   drawVehicles(dayIndex);
   textAlign(CENTER);
